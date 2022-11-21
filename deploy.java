@@ -1,3 +1,0 @@
-Hi,
-
-This Deploy project.
